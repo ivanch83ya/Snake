@@ -1,0 +1,16 @@
+I:\Udemy\Geekbrains\Snake\Snake\bin\Debug\net5.0\Snake.exe
+I:\Udemy\Geekbrains\Snake\Snake\bin\Debug\net5.0\Snake.deps.json
+I:\Udemy\Geekbrains\Snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.json
+I:\Udemy\Geekbrains\Snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.dev.json
+I:\Udemy\Geekbrains\Snake\Snake\bin\Debug\net5.0\Snake.dll
+I:\Udemy\Geekbrains\Snake\Snake\bin\Debug\net5.0\ref\Snake.dll
+I:\Udemy\Geekbrains\Snake\Snake\bin\Debug\net5.0\Snake.pdb
+I:\Udemy\Geekbrains\Snake\Snake\obj\Debug\net5.0\Snake.csproj.AssemblyReference.cache
+I:\Udemy\Geekbrains\Snake\Snake\obj\Debug\net5.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+I:\Udemy\Geekbrains\Snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfoInputs.cache
+I:\Udemy\Geekbrains\Snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfo.cs
+I:\Udemy\Geekbrains\Snake\Snake\obj\Debug\net5.0\Snake.csproj.CoreCompileInputs.cache
+I:\Udemy\Geekbrains\Snake\Snake\obj\Debug\net5.0\Snake.dll
+I:\Udemy\Geekbrains\Snake\Snake\obj\Debug\net5.0\ref\Snake.dll
+I:\Udemy\Geekbrains\Snake\Snake\obj\Debug\net5.0\Snake.pdb
+I:\Udemy\Geekbrains\Snake\Snake\obj\Debug\net5.0\Snake.genruntimeconfig.cache
