@@ -32,7 +32,7 @@ namespace Snake
             snake.Move();
             for(int i = 1; i <50; i++)
             {
-                Thread.Sleep(100);
+                Thread.Sleep(50);
                 snake.Move();
             }
 
